@@ -31,7 +31,7 @@ Software deployment and maintenance
 And yes — this application was developed solo.
 
 The Background
-
+======
 I started learning programming and electronics from the era of classic microcontrollers like the AT89S51. Since then, I have always enjoyed building systems directly from low-level logic and understanding how software interacts with hardware, networks, and users.
 
 As technology evolved, I shifted into modern software engineering, embedded systems, IoT, and desktop application development.
@@ -117,7 +117,7 @@ High-speed processing logic
 This level of flexibility is difficult to achieve with many higher-level frameworks.
 
 Application Overview
-
+======
 The application shown above is a desktop trading platform interface designed for handling portfolio monitoring, stock summaries, transactions, reports, and account management.
 
 Some of the visible features include:
