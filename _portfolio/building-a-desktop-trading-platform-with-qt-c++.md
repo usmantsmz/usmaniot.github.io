@@ -56,30 +56,32 @@ Real-time processing
 
 This combination is extremely powerful for applications that require responsiveness and reliability, including:
 
-Trading systems
-Monitoring dashboards
-Industrial software
-SCADA systems
-IoT management software
-Financial terminals
-Custom enterprise desktop applications
-Why I Chose Qt Creator + CMake + C++
+- Trading systems
+- Monitoring dashboards
+- Industrial software
+- SCADA systems
+- IoT management software
+- Financial terminals
+- Custom enterprise desktop applications
 
+Why I Chose Qt Creator + CMake + C++
+------
 Many developers today prefer Electron or web-based desktop frameworks.
 
 But for performance-critical applications, I still strongly believe native desktop applications built with C++ provide significant advantages.
 
 Advantages of Qt + C++ for Desktop Applications
+------
 1. High Performance
 
 Trading applications often process:
 
-Real-time market data
-Streaming updates
-Multiple windows
-Interactive tables
-Financial calculations
-Socket communication
+- Real-time market data
+- Streaming updates
+- Multiple windows
+- Interactive tables
+- Financial calculations
+- Socket communication
 
 Qt and C++ handle these tasks efficiently with low memory overhead.
 
