@@ -1,6 +1,6 @@
 ---
 title: "Building a Desktop Trading Platform with Qt C++"
-excerpt: "Over the last few years, I have been deeply involved in developing desktop applications, backend integrations, and real-time systems using C++ and Qt Framework. One of the projects I developed independently is a desktop trading application built using Qt Creator, CMake, modern C++, Redis, and REST API integration.<br/><img src='/images/bluetooth low energy-usmantsmz.png'>"
+excerpt: "Over the last few years, I have been deeply involved in developing desktop applications, backend integrations, and real-time systems using C++ and Qt Framework. One of the projects I developed independently is a desktop trading application built using Qt Creator, CMake, modern C++, Redis, and REST API integration.<br/><img src='images/desktop-c++.png'>"
 collection: portfolio
 ---
 
@@ -18,15 +18,15 @@ The purpose of writing this article is not only to share part of my engineering 
 
 This is the kind of project that combines:
 
-Desktop application engineering
-UI/UX implementation
-Real-time data processing
-API communication
-Multi-module architecture
-Financial/trading workflow understanding
-Cross-platform software development
-Performance optimization
-Software deployment and maintenance
+- Desktop application engineering
+- UI/UX implementation
+- Real-time data processing
+- API communication
+- Multi-module architecture
+- Financial/trading workflow understanding
+- Cross-platform software development
+- Performance optimization
+- Software deployment and maintenance
 
 And yes — this application was developed solo.
 
@@ -42,17 +42,17 @@ That is why I chose Qt Framework and C++.
 
 Qt allows developers to build professional-grade desktop applications that can run across multiple operating systems such as:
 
-macOS
-Windows
-Linux
+- macOS
+- Windows
+- Linux
 
 Meanwhile, C++ gives complete control over:
 
-Performance
-Memory management
-Multi-threading
-Native integration
-Real-time processing
+- Performance
+- Memory management
+- Multi-threading
+- Native integration
+- Real-time processing
 
 This combination is extremely powerful for applications that require responsiveness and reliability, including:
 
@@ -91,18 +91,19 @@ Unlike browser-based applications, Qt applications feel more responsive and inte
 
 This becomes important for:
 
-Professional users
-Traders
-Operators
-Engineers
-Enterprise environments
+- Professional users
+- Traders
+- Operators
+- Engineers
+- Enterprise environments
+
 3. Cross-Platform Capability
 
 With a single codebase, applications can be deployed to:
 
-macOS
-Windows
-Linux
+- macOS
+- Windows
+- Linux
 
 This dramatically reduces development complexity.
 
@@ -110,11 +111,11 @@ This dramatically reduces development complexity.
 
 Using modern C++ allows me to design:
 
-Multi-threaded systems
-Modular architecture
-Memory-efficient components
-Real-time data pipelines
-High-speed processing logic
+- Multi-threaded systems
+- Modular architecture
+- Memory-efficient components
+- Real-time data pipelines
+- High-speed processing logic
 
 This level of flexibility is difficult to achieve with many higher-level frameworks.
 
@@ -124,50 +125,50 @@ The application shown above is a desktop trading platform interface designed for
 
 Some of the visible features include:
 
-Portfolio management
-Buy/Sell transaction interface
-Real-time stock monitoring
-Trading summaries
-Multi-tab workspace
-User session handling
-Account dashboard
-Market information panel
-Report management
-Financial statistics visualization
+- Portfolio management
+- Buy/Sell transaction interface
+- Real-time stock monitoring
+- Trading summaries
+- Multi-tab workspace
+- User session handling
+- Account dashboard
+- Market information panel
+- Report management
+- Financial statistics visualization
 
 The application UI was implemented manually using Qt Widgets and custom styling.
 
 The focus was to create:
 
-Fast interaction
-Professional layout
-Efficient screen usage
-Minimal latency feeling
-Dark-theme professional appearance
-Technology Stack
-Desktop Frontend
-Qt Creator
+- Fast interaction
+- Professional layout
+- Efficient screen usage
+- Minimal latency feeling
+- Dark-theme professional appearance
+- Technology Stack
+- Desktop Frontend
+- Qt Creator
 
 Qt Creator was used as the primary IDE for:
 
-UI development
-Debugging
-Project management
-Cross-platform compilation
-Deployment workflow
-Modern C++
+- UI development
+- Debugging
+- Project management
+- Cross-platform compilation
+- Deployment workflow
+- Modern C++
 
 The core application logic was built using modern C++.
 
 Including:
 
-Object-oriented architecture
-Multi-threading
-Event-driven programming
-Signal-slot communication
-Data models
-Memory management
-CMake
+- Object-oriented architecture
+- Multi-threading
+- Event-driven programming
+- Signal-slot communication
+- Data models
+- Memory management
+- CMake
 
 The project uses CMake instead of legacy qmake.
 
